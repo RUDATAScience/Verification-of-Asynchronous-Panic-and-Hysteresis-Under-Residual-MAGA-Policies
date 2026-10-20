@@ -1,0 +1,11 @@
+Year_Month,Gallup_Approval_Pct,Gallup_Disapproval_Pct,Independent_Approval_Pct,Gallup_Economic_Confidence,Protest_Mobilization_Thousands,Political_Phase,Net_Approval_Margin,Implied_Midterm_Anti_Field_h
+2024-12,49.5,46.0,46.0,8.0,15.0,Transition Honeymoon,3.5,0.0262
+2025-01,47.0,48.0,44.0,4.0,45.0,Inauguration & Executive Orders,-1.0,-0.0134
+2025-03,45.0,51.0,40.0,-5.0,80.0,MAGA Tariff Implementation,-6.0,-0.0576
+2025-06,43.0,53.0,37.0,-12.0,120.0,Inflation & Supply Chain Friction,-10.0,-0.0944
+2025-09,41.5,55.0,35.0,-16.0,160.0,Budget Standoff & Regulatory Shift,-13.5,-0.1272
+2025-12,40.5,56.0,34.0,-18.0,190.0,Year-1 Approval Erosion,-15.5,-0.14679999999999999
+2026-03,39.8,57.0,32.0,-21.0,250.0,Midterm Primary Polarization,-17.200000000000003,-0.16760000000000003
+2026-06,39.0,58.0,31.0,-24.0,320.0,Transatlantic & Domestic Protests,-19.0,-0.1904
+2026-09,38.5,58.5,30.0,-26.0,410.0,Pre-Midterm Cynicism Surge,-20.0,-0.2092
+2026-10,38.2,59.0,29.0,-28.0,500.0,500k Anti-Trump Protest Wave & Flip,-20.799999999999997,-0.2264
