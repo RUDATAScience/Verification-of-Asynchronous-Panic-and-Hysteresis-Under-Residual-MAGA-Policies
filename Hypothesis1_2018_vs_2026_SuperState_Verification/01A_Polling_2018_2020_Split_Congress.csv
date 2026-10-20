@@ -1,0 +1,10 @@
+Rel_Month,Date,Approve,Disapprove,Net_Margin,Ind_Approve,Cong_Approve,Protest_Idx,Historical_Phase,Delta_h_anti
+M-10 (2018-01),2018-01,38.0,57.0,-19.0,35.0,20.0,0.15,Tax Cuts & Deregulation Orthodoxy,-0.087
+M-08 (2018-03),2018-03,39.0,55.0,-16.0,36.0,19.0,0.18,Initial Section 301 China Tariffs,-0.07583999999999999
+M-05 (2018-06),2018-06,42.0,53.0,-11.0,39.0,19.0,0.2,USMCA & Conventional Trade Frame,-0.0558
+M-01 (2018-10),2018-10,40.0,54.0,-14.0,37.0,21.0,0.35,Pre-Midterm Kavanaugh Confirmation,-0.0756
+M+00 (2018-11),2018-11,38.0,60.0,-22.0,34.0,20.0,0.4,"Split Flip: Dem House (235), Rep Senate (53)",-0.1116
+M+03 (2019-02),2019-02,44.0,52.0,-8.0,40.0,21.0,0.22,Post-Shutdown Recovery,-0.04416
+M+06 (2019-05),2019-05,46.0,50.0,-4.0,41.0,20.0,0.15,Mueller Report Completion Bounce,-0.024
+M+11 (2019-10),2019-10,41.0,57.0,-16.0,36.0,19.0,0.28,House Impeachment Inquiry,-0.08064
+M+15 (2020-02),2020-02,49.0,48.0,1.0,44.0,23.0,0.12,Senate Acquittal & 49% Approval Peak,-0.0015599999999999998

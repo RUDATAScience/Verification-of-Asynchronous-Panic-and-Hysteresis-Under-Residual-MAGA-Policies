@@ -1,0 +1,9 @@
+Year_Month,Approve_pct,Disapprove_pct,Net_Margin_pct,Ind_Approve_pct,Cong_Approve_pct,Protest_Index,Political_Event,Calibrated_Delta_h
+2018-01,38.0,57.0,-19.0,35.0,20.0,0.15,Tax Cuts & Deregulation Baseline,-0.028199999999999996
+2018-06,42.0,53.0,-11.0,39.0,19.0,0.18,Conventional Section 301 Tariffs,0.00396
+2018-10,40.0,54.0,-14.0,37.0,21.0,0.35,Pre-Midterm Polling (Gallup 40%-54%),-0.0168
+2018-11,38.0,60.0,-22.0,34.0,20.0,0.4,Partial Split: Dem House / Rep Senate,-0.0528
+2019-01,37.0,59.0,-22.0,33.0,18.0,0.3,35-Day Partial Shutdown Shock,-0.048
+2019-04,46.0,50.0,-4.0,41.0,20.0,0.15,Mueller Report Conclusion Bounce,0.0348
+2019-10,41.0,57.0,-16.0,36.0,19.0,0.28,House Impeachment Inquiry Onset,-0.021840000000000002
+2020-02,49.0,48.0,1.0,44.0,23.0,0.12,Senate Acquittal & 49% Approval Peak,0.05724
